@@ -6,8 +6,8 @@ This service is designed to generate short URLs for provided full URLs, store th
 ## Installation
 
 ```bash
-  git clone https://github.com/lianakalpakchyan/link_shortener_fastapi.git
-  cd link_shortener_fastapi
+  git clone https://github.com/lianakalpakchyan/url_shortener_fastapi.git
+  cd url_shortener_fastapi
   docker-compose up --build
 ```
 
